@@ -1,4 +1,4 @@
-<img src="https://github.com/Harsh971/Tic-Tac-Toe-CICD/blob/main/architecture.png"></img>
+<img src="https://github.com/Harsh971/Tic-Tac-Toe-CICD/blob/main/architecture.gif"></img>
 
 # Deploying a TicTacToe Game with Docker and Jenkins on AWS EC2 Instance
 
